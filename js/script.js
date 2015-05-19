@@ -98,7 +98,7 @@ $(".key").click(function(){
 	letter = $(this).find(".letter").html();
 
 	switch(letter){
-		case "SHISH!":
+		case "unwomo":
 			keycode = 32;
 			break;
 
